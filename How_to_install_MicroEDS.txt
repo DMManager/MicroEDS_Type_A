@@ -1,0 +1,13 @@
+MicroEDS Type A - How to Install
+-------------------------------------------------
+1. Install java 1.8 on your target machine
+
+2. Create a directory c:\eds_sbc\
+
+3. Locate the file EDS-SBC.jar in this directory
+
+4. Dowload and unzip the file eds_sbc_dir.7z into c:\eds_sbc\
+
+5. Dowload and unzip the file lib.7z into c:\eds_sbc\
+
+6. Run the command java -jar EDS-sbc.jar
