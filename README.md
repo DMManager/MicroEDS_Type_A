@@ -1,4 +1,4 @@
-#   MicroEDS_Type_A
+#   MicroEDS_Type_A (Server based)
 MicroEDS type A for server implementation.
 For a full description of the product, please go to HTTP://www.decisionmakersltd.com.
 Please follow the instructions in the file "On how to install" it to run MicroEDS Type A on your machine.
