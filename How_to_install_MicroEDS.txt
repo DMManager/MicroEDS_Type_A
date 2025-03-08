@@ -6,8 +6,8 @@ MicroEDS Type A - How to Install
 
 3. Locate the file EDS-SBC.jar in this directory
 
-4. Dowload and unzip the file eds_sbc_dir.7z into c:\eds_sbc\
+4. Download and unzip the file eds_sbc_dir.7z into c:\eds_sbc\
 
-5. Dowload and unzip the file lib.7z into c:\eds_sbc\
+5. Download and unzip the file lib.7z into c:\eds_sbc\
 
 6. Run the command java -jar EDS-sbc.jar
