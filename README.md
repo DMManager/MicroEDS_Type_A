@@ -19,7 +19,7 @@ Version 1.0 of MicroEDS was mainly designed to detect events in a drinking water
 10. Similarity of measurements signature to known harmful patterns.
 
 #   Licensing
-MicroEDS is distributed under the private licensing of Decisionmakers Ltd. The terms of the license are detailed in the user manual. 
+MicroEDS is distributed under the private licensing of DecisionMakers Ltd. The terms of the license are detailed in the user manual. 
 
 #   Evaluation period
 You may download the current demo version of the MicroEDS and run it unlimitedly.
